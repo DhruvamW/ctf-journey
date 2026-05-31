@@ -9,3 +9,5 @@
 ->tr 'a-zA-Z' 'n-za-mN-ZA-M' (rot13)
 
 **What I learned:** rot13 and base64 decode commands
+
+**Flag:** picoCTF{Revers1ng_t3xt_Tr4nsf0rm@t10ns_5469b5d2}
